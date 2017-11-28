@@ -8,3 +8,7 @@ So we just add some text here to see a modification
     "dob": "dateTime",
     "decimal": 3.1415926535897
 }
+
+I deleted a row here
+
+And added this one
